@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e200ef3.css",
+    "main.js": "/static/js/main.8069ca93.js",
+    "static/media/Video-png.png": "/static/media/Video-png.9d292a9d046bab72efed.png",
+    "static/media/intro.png": "/static/media/intro.10c4592234cf3f550e70.png",
+    "static/media/testimonials.png": "/static/media/testimonials.3a1b8d35b332a0f92593.png",
+    "static/media/support-3.png": "/static/media/support-3.2b8670d3eb932b09973e.png",
+    "static/media/result-png.png": "/static/media/result-png.facdc4de8825020c369f.png",
+    "static/media/support-1.png": "/static/media/support-1.c4105c9f90867cfef799.png",
+    "static/media/support-2.png": "/static/media/support-2.5e93a9213546100ca956.png",
+    "static/media/news-1.png": "/static/media/news-1.b59aeca6522aa90a0523.png",
+    "static/media/news-2.png": "/static/media/news-2.eff28d10f09159b574ee.png",
+    "static/media/logo.svg": "/static/media/logo.0e06330927e1e672731e5d6f06671856.svg",
+    "static/media/toys.svg": "/static/media/toys.e34848eb442adf39f18a5c6d59fa71a9.svg",
+    "static/media/house.svg": "/static/media/house.053859cf59b68d061b3101ae44d7ef57.svg",
+    "static/media/lock-svg.svg": "/static/media/lock-svg.aa60ae7dcf6339589e37acf93eba91cb.svg",
+    "static/media/water.svg": "/static/media/water.145edc2d5d525dd0710949deb0b441eb.svg",
+    "static/media/school.svg": "/static/media/school.b893df0608c37f538e80b62bba9fc1a8.svg",
+    "static/media/love.svg": "/static/media/love.962377de6dac584e21832f9ee5ca5190.svg",
+    "index.html": "/index.html",
+    "static/media/true.svg": "/static/media/true.6efea1f35ecc40dc8b60eb85c56135a5.svg",
+    "main.4e200ef3.css.map": "/static/css/main.4e200ef3.css.map",
+    "main.8069ca93.js.map": "/static/js/main.8069ca93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e200ef3.css",
+    "static/js/main.8069ca93.js"
+  ]
+}
